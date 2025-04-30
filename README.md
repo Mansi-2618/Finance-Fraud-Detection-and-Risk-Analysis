@@ -1,2 +1,2 @@
 # Finance-Fraud-Detection-and-Risk-Analysis
-Built predictive models for detecting fraudulent financial transactions and assessing risk levels. Used supervised learning algorithms, performed feature engineering, and visualized patterns to improve fraud detection accuracy and support risk analysis. Included data cleaning, visualization, and evaluation metrics.
+Created a financial fraud detection dashboard for initial analysis, followed by building machine learning models to predict fraudulent transactions. Performed data cleaning, feature engineering, and evaluation. Developed a final dashboard for risk analysis and pattern visualization.
